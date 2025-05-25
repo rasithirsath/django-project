@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-an-cq#@1_*%$@av(f=3z_mxzz4rgjr3cx)b-%%+2ckg=j4*dzm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['btre-broker.onrender.com']
 
 
 # Application definition
