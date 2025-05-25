@@ -1,7 +1,22 @@
+
+
+
 Django==5.0.6
-gunicorn
-psycopg2-binary  # For PostgreSQL database
-whitenoise  # For serving static files
-dj-database-url  # For parsing DATABASE_URL
-python-decouple  # For managing env variables
-requests  # If you're making any HTTP requests
+
+pillow==10.2.0
+pipp==0.0.1
+
+psutil==6.0.0
+psycopg==3.2.9
+psycopg2-binary==2.9.10
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+
+
+requests==2.31.0
+requests-file==1.5.1
+
+sqlparse==0.5.0
+stripe==10.1.0
+sympy==1.13.1
+
