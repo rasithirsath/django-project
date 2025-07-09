@@ -38,26 +38,7 @@ BTRE is a practical real estate web app that allows:
 
 ## 🗂️ Project Structure
 
-BTRE/
-├── btre/ # Main Django project folder
-│ ├── settings.py # Project settings
-│ ├── urls.py # Root URLs
-│ └── wsgi.py
-├── contacts/ # App for contact form and messages
-│ ├── models.py
-│ ├── views.py
-│ └── admin.py
-├── listings/ # App for property listings
-│ ├── models.py
-│ ├── views.py
-│ └── urls.py
-├── realtors/ # App for realtor profiles
-│ ├── models.py
-│ ├── views.py
-├── media/ # Folder for media uploads
-├── templates/ # Shared HTML templates
-├── manage.py # Django CLI
-└── requirements.txt # Dependencies
+<pre> ``` BTRE/ ├── btre/ # Main Django project folder │ ├── settings.py # Project settings │ ├── urls.py # Root URLs │ └── wsgi.py ├── contacts/ # App for contact form and messages │ ├── models.py │ ├── views.py │ └── admin.py ├── listings/ # App for property listings │ ├── models.py │ ├── views.py │ └── urls.py ├── realtors/ # App for realtor profiles │ ├── models.py │ └── views.py ├── media/ # Folder for media uploads ├── templates/ # Shared HTML templates ├── manage.py # Django CLI └── requirements.txt # Dependencies ``` </pre>
 
 
 ## ✨ Key Features
