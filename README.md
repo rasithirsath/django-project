@@ -35,6 +35,7 @@ BTRE is a practical real estate web app that allows:
 | 💬 JavaScript  | Interactivity and client-side logic.             |
 | 🔒 Django Auth | Handles user login, logout, and authentication.  |
 
+
 ## 🗂️ Project Structure
 
 BTRE/
