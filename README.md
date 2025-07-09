@@ -58,6 +58,8 @@ BTRE/
 ├── templates/ # Shared HTML templates
 ├── manage.py # Django CLI
 └── requirements.txt # Dependencies
+
+
 ## ✨ Key Features
 - 📸 Image uploads for property listings.
 
